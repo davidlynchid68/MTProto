@@ -7,7 +7,7 @@
   "env": {
     "SECRET": {
       "description": "MTProto secret",
-      "value": "z0cbcef5a486d9636472ac27f8e11a9d"
+      "value": "a0cbcef5a486d9636472ac27f8e11a9d"
     }
   },
   "website": "https://www.v2ray.com/chapter_02/protocols/mtproto.html",
