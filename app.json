@@ -11,6 +11,6 @@
     }
   },
   "website": "https://www.v2ray.com/chapter_02/protocols/mtproto.html",
-  "repository": "https://github.com/yuchen198/heroku-MTProto",
+  "repository": "https://github.com/a132395/heroku-MTProto",
   "stack": "container"
 }
