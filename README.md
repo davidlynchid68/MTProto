@@ -1,6 +1,5 @@
 # MTProto Heroku
 
-## 概述
 
 用于在 Heroku 上部署 MTProto 仅可用于 Telegram，每次部署自动选择最新的 alpine linux 和 v2ray core 。  
 
